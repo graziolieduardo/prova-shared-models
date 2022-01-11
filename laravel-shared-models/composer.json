@@ -1,5 +1,5 @@
 {
-    "name": "eduardo/prova-shared-models",
+    "name": "graziolieduardo/prova-shared-models",
     "type": "library",
     "description": "Your package description goes here",
     "homepage": "https://yourcompany.com",
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "<ProvaShared\\SharedModels\\": "src"
+            "ProvaShared\\SharedModels\\": "src"
         }
     }
 }
