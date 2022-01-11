@@ -1,18 +1,18 @@
 {
-    "name": "graziolieduardo/prova-shared-models",
-    "type": "vcs",
-    "description": "Your package description goes here",
-    "homepage": "https://yourcompany.com",
-    "authors": [
-        {
-            "name": "Eduardo Grazioli",
-            "email": "eduardo@mail.it",
-            "role": "prova"
-        }
-    ],
+    "name": "eduardo/laravel-shared-models",
+    "description": "prova",
+    "type": "library",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "ProvaShared\\SharedModels\\": "src"
+            "Eduardo\\LaravelSharedModels\\": "src/"
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "eduardo",
+            "email": "eduardo@pigmentolab.com"
+        }
+    ],
+    "minimum-stability": "dev"
 }
