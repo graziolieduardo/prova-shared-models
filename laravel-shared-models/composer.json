@@ -1,6 +1,6 @@
 {
     "name": "graziolieduardo/prova-shared-models",
-    "type": "library",
+    "type": "vcs",
     "description": "Your package description goes here",
     "homepage": "https://yourcompany.com",
     "authors": [
