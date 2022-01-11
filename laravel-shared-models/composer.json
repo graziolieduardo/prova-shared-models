@@ -1,0 +1,18 @@
+{
+    "name": "eduardo/prova-shared-models",
+    "type": "library",
+    "description": "Your package description goes here",
+    "homepage": "https://yourcompany.com",
+    "authors": [
+        {
+            "name": "Eduardo Grazioli",
+            "email": "eduardo@mail.it",
+            "role": "prova"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "<ProvaShared\\SharedModels\\": "src"
+        }
+    }
+}
